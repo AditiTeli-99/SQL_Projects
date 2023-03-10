@@ -1,4 +1,4 @@
-# SQL_Projects
+# Maven Movies - SQL_Projects
 
 ## Premise
 
